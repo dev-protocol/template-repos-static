@@ -22,5 +22,15 @@
 	"bugs": {
 		"url": "https://github.com/dev-protocol/assets/issues"
 	},
-	"homepage": "https://github.com/dev-protocol/assets#readme"
+	"homepage": "https://github.com/dev-protocol/assets#readme",
+	"version": "1.0.0",
+	"main": "index.js",
+	"keywords": [
+		"devprtcl",
+		"template",
+		"github",
+		"opensource",
+		"git"
+	],
+	"author": "Dev Protocol"
 }
